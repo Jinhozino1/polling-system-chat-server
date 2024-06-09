@@ -29,7 +29,7 @@ int main(int argc, char* argv[]) {
 	fd_set read_fds;// 읽기를 감지할 fd_set 구조체
 
 	if(argc != 4) {
-		printf("사용법 : %s server_ip port customName\n", argv[0]);
+		printf("사용법 : %s server_ip port custom_name\n", argv[0]);
 		exit(0);
 	}
 
