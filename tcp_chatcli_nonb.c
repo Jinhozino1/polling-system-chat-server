@@ -2,7 +2,7 @@
 // 파일명 : tcp_chatcli_nonb.c 
 // 기   능 : 넌블록 모드의 채팅 서버
 // 컴파일 : gcc -o tcp_chatcli_nonb tcp_chatcli_nonb.c
-// 사용법 : tcp_chatcli_nonb 192.168.64.3 4001 [사용자 지정 이름]
+// 사용법 : tcp_chatcli_nonb server_ip port [사용자 지정 이름]
 //-----------------------------------------------------------
 #include <stdio.h>
 #include <stdlib.h>

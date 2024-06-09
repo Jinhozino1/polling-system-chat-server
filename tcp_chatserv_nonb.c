@@ -2,7 +2,7 @@
 // 파일명 : tcp_chatserv_nonb.c 
 // 기   능 : 넌블록 모드의 채팅 서버
 // 컴파일 : gcc -o tcp_chatserv_nonb tcp_chatserv_nonb 
-// 사용법 : tcp_chatserv_nonb 4001
+// 사용법 : tcp_chatserv_nonb port
 //-----------------------------------------------------------
 #include <stdio.h> 
 #include <fcntl.h>
