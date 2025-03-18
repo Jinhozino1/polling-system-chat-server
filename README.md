@@ -1,5 +1,5 @@
 # Network Programing
-polling system chat server program
+linux polling system chat server program
 
 usege:
 
